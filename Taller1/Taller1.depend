@@ -1,0 +1,901 @@
+# depslib dependency file v1.0
+1675983629 source:/Users/jorgelaport/Taller1/sasa/Taller1/Archivos.cpp
+	"archivos.h"
+
+1675983489 source:/Users/jorgelaport/Taller1/sasa/Taller1/Boolean.cpp
+	"Boolean.h"
+
+1675983490 /Users/jorgelaport/Taller1/sasa/Taller1/Boolean.h
+	<stdio.h>
+
+1675984453 source:/Users/jorgelaport/Taller1/sasa/Taller1/Fecha.cpp
+	"Fecha.h"
+
+1675991897 /Users/jorgelaport/Taller1/sasa/Taller1/Fecha.h
+	"Boolean.h"
+
+1675983254 source:/Users/jorgelaport/Taller1/sasa/Taller1/main.cpp
+	<iostream>
+
+1675990358 source:/Users/jorgelaport/Taller1/sasa/Taller1/FamiliaReal.cpp
+	"FamiliaReal.h"
+
+1675992171 /Users/jorgelaport/Taller1/sasa/Taller1/FamiliaReal.h
+	"stringdinamico.h"
+	"Fecha.h"
+
+1675992008 /Users/jorgelaport/Taller1/sasa/Taller1/stringdinamico.h
+	"Boolean.h"
+
+1675992207 source:/Users/jorgelaport/Taller1/sasa/Taller1/Arbol.cpp
+	"Arbol.h"
+
+1675991959 /Users/jorgelaport/Taller1/sasa/Taller1/Arbol.h
+	"FamiliaReal.h"
+
+1675990025 source:/Users/jorgelaport/Taller1/sasa/Taller1/stringdinamico.cpp
+	"stringdinamico.h"
+
+1675992736 source:/Users/jorgelaport/Taller1/sasa/Taller1/Listas.cpp
+	"Listas.h"
+
+1675992651 /Users/jorgelaport/Taller1/sasa/Taller1/Listas.h
+	"arbol.h"
+	"archivos.h"
+
+1675974206 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\arbol.cpp
+	"Arbol.h"
+
+1675973958 c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\arbol.h
+	"FamiliaReal.h"
+
+1675974170 c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\familiareal.h
+	"stringdinamico.h"
+	"Fecha.h"
+
+1677277862 c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\stringdinamico.h
+	"Boolean.h"
+
+1675965490 c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\boolean.h
+	<stdio.h>
+
+1677364755 c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\fecha.h
+	"listaStings.h"
+
+1675965628 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\archivos.cpp
+	"archivos.h"
+
+1675971526 c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\archivos.h
+	"stringdinamico.h"
+
+1675965488 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\boolean.cpp
+	"Boolean.h"
+
+1675972358 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1675966452 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\fecha.cpp
+	"Fecha.h"
+
+1675974736 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\listas.cpp
+	"Listas.h"
+
+1675974650 c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\listas.h
+	"arbol.h"
+	"archivos.h"
+
+1677278145 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\main.cpp
+	<iostream>
+	"listaStings.h"
+
+1675972912 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1675974874 c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\miembrorealeza.h
+	"stringdinamico.h"
+	"Fecha.h"
+
+1677278022 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1677364633 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\listastings.cpp
+	"listaStings.h"
+
+1677279100 c:\users\janat\desktop\ude\taller 1\code\taller1-20230213t211112z-001\taller1\listastings.h
+	"stringdinamico.h"
+
+1678413788 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\boolean.cpp
+	"Boolean.h"
+
+1678413789 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\boolean.h
+	<stdio.h>
+
+1678413789 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\arbol.cpp
+	"Arbol.h"
+
+1678413788 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1678413788 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\familiareal.h
+	"MiembroRealeza.h"
+
+1678413789 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\stringdinamico.h
+	"Boolean.h"
+
+1678413789 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\fecha.h
+	"stringdinamico.h"
+
+1678413789 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\listastings.h
+	"stringdinamico.h"
+
+1678413788 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\archivos.cpp
+	"archivos.h"
+
+1678413788 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\archivos.h
+	"stringdinamico.h"
+
+1678413789 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1678413788 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\fecha.cpp
+	"Fecha.h"
+
+1678413789 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\listas.cpp
+	"Listas.h"
+
+1678413789 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\listas.h
+	"FamiliaReal.h"
+	"Arbol.h"
+
+1678413788 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\listastings.cpp
+	"listaStings.h"
+
+1678454567 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1678413789 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1678413789 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\miembrorealeza.h
+	"Fecha.h"
+	"ListaComandos.h"
+	"listaStings.h"
+	"Archivos.h"
+
+1678413788 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1677522194 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\arbol.cpp
+	"Arbol.h"
+
+1677523600 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\arbol.h
+	"FamiliaReal.h"
+
+1677606270 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\familiareal.h
+	"stringdinamico.h"
+	"Fecha.h"
+	"MiembroRealeza.h"
+
+1677534486 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\stringdinamico.h
+	"Boolean.h"
+
+1677417114 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\boolean.h
+	<stdio.h>
+
+1677519178 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\fecha.h
+	"listaStings.h"
+
+1677417114 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\listastings.h
+	"stringdinamico.h"
+
+1677606777 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\miembrorealeza.h
+	"stringdinamico.h"
+	"Fecha.h"
+
+1677417114 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\archivos.cpp
+	"archivos.h"
+
+1677417114 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\archivos.h
+	"stringdinamico.h"
+
+1677417114 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\boolean.cpp
+	"Boolean.h"
+
+1677606270 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1677519178 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\fecha.cpp
+	"Fecha.h"
+
+1677417114 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\listas.cpp
+	"Listas.h"
+
+1677417114 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\listas.h
+	"arbol.h"
+	"archivos.h"
+
+1677417114 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\listastings.cpp
+	"listaStings.h"
+
+1677523752 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\main.cpp
+	<iostream>
+	"listaStings.h"
+
+1677534510 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t173412z-001\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1678413788 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\comandos.cpp
+	"Comandos.h"
+
+1678413788 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\comandos.h
+	"stringdinamico.h"
+
+1678413789 source:c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1678413789 c:\users\matip\onedrive - facultad de ingeniería\escritorio\ude\taller 1\codeblocks\taller1\listacomandos.h
+	"Comandos.h"
+
+1677592450 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\arbol.cpp
+	"Arbol.h"
+
+1677624057 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1677624389 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\miembrorealeza.h
+	"Fecha.h"
+
+1677615716 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\fecha.h
+	"ListaComandos.h"
+
+1677615740 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\listacomandos.h
+	"Comandos.h"
+
+1677615716 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\comandos.h
+	"Archivos.h"
+
+1677615716 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\archivos.h
+	"listaStings.h"
+
+1677592450 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\listastings.h
+	"stringdinamico.h"
+
+1677592450 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\stringdinamico.h
+	"Boolean.h"
+
+1677592450 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\boolean.h
+	<stdio.h>
+
+1677592450 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\archivos.cpp
+	"archivos.h"
+
+1677592450 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\boolean.cpp
+	"Boolean.h"
+
+1677614071 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\comandos.cpp
+	"Comandos.h"
+
+1677592450 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\fecha.cpp
+	"Fecha.h"
+
+1677593734 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1677616012 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\listas.cpp
+	"Listas.h"
+
+1677615829 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\listas.h
+	"FamiliaReal.h"
+
+1677615716 c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\familiareal.h
+	"Arbol.h"
+
+1677592450 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\listastings.cpp
+	"listaStings.h"
+
+1677592450 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1677621832 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1677615716 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1677623819 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230228t195022z-001\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1677693908 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\arbol.cpp
+	"Arbol.h"
+
+1677693076 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1677721254 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\miembrorealeza.h
+	"Fecha.h"
+	"ListaComandos.h"
+	"listaStings.h"
+	"Archivos.h"
+
+1677721253 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\fecha.h
+	"stringdinamico.h"
+
+1677692508 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\stringdinamico.h
+	"Boolean.h"
+
+1677692508 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\boolean.h
+	<stdio.h>
+
+1677796518 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\listacomandos.h
+	"Comandos.h"
+
+1677795600 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\comandos.h
+	"stringdinamico.h"
+
+1677692508 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\listastings.h
+	"stringdinamico.h"
+
+1677721253 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\archivos.h
+	"stringdinamico.h"
+
+1677692508 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\archivos.cpp
+	"archivos.h"
+
+1677692508 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\boolean.cpp
+	"Boolean.h"
+
+1677795843 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\comandos.cpp
+	"Comandos.h"
+
+1677692508 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1677721253 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\familiareal.h
+	"MiembroRealeza.h"
+
+1677692508 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\fecha.cpp
+	"Fecha.h"
+
+1677692508 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\listastings.cpp
+	"listaStings.h"
+
+1677795600 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1677721253 c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\listas.h
+	"FamiliaReal.h"
+	"Arbol.h"
+
+1677692508 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1677692508 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1677723618 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\listas.cpp
+	"Listas.h"
+
+1677796518 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230302t011259z-001\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\arbol.cpp
+	"Arbol.h"
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\miembrorealeza.h
+	"Fecha.h"
+	"ListaComandos.h"
+	"listaStings.h"
+	"Archivos.h"
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\fecha.h
+	"stringdinamico.h"
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\stringdinamico.h
+	"Boolean.h"
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\boolean.h
+	<stdio.h>
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\listacomandos.h
+	"Comandos.h"
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\comandos.h
+	"stringdinamico.h"
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\listastings.h
+	"stringdinamico.h"
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\archivos.h
+	"stringdinamico.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\archivos.cpp
+	"archivos.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\boolean.cpp
+	"Boolean.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\comandos.cpp
+	"Comandos.h"
+
+1677817048 source:c:\users\vale\onedrive\escritorio\jorge\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1677817740 c:\users\vale\onedrive\escritorio\jorge\taller1\familiareal.h
+	"MiembroRealeza.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\fecha.cpp
+	"Fecha.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1677817308 source:c:\users\vale\onedrive\escritorio\jorge\taller1\listas.cpp
+	"Listas.h"
+
+1677812337 c:\users\vale\onedrive\escritorio\jorge\taller1\listas.h
+	"FamiliaReal.h"
+	"Arbol.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\listastings.cpp
+	"listaStings.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1677812337 source:c:\users\vale\onedrive\escritorio\jorge\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1677882435 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\arbol.cpp
+	"Arbol.h"
+
+1677794336 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1677882435 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\miembrorealeza.h
+	"Fecha.h"
+	"ListaComandos.h"
+	"listaStings.h"
+	"Archivos.h"
+
+1677882095 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\fecha.h
+	"stringdinamico.h"
+
+1677794336 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\stringdinamico.h
+	"Boolean.h"
+
+1677882080 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\boolean.h
+	<stdio.h>
+
+1677794336 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\listacomandos.h
+	"Comandos.h"
+
+1677794336 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\comandos.h
+	"stringdinamico.h"
+
+1677794336 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\listastings.h
+	"stringdinamico.h"
+
+1677794336 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\archivos.h
+	"stringdinamico.h"
+
+1677794336 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\archivos.cpp
+	"archivos.h"
+
+1677882080 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\boolean.cpp
+	"Boolean.h"
+
+1677882080 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\comandos.cpp
+	"Comandos.h"
+
+1677799726 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1677799740 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\familiareal.h
+	"MiembroRealeza.h"
+
+1677881932 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\fecha.cpp
+	"Fecha.h"
+
+1677794336 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1677799308 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\listas.cpp
+	"Listas.h"
+
+1677794336 c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\listas.h
+	"FamiliaReal.h"
+	"Arbol.h"
+
+1677794336 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\listastings.cpp
+	"listaStings.h"
+
+1677882435 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1677794336 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1677855885 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230303t133415z-001\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1678072610 source:c:\users\vale\onedrive\escritorio\taller1\arbol.cpp
+	"Arbol.h"
+
+1678076786 c:\users\vale\onedrive\escritorio\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1678078264 c:\users\vale\onedrive\escritorio\taller1\miembrorealeza.h
+	"Fecha.h"
+	"ListaComandos.h"
+	"listaStings.h"
+	"Archivos.h"
+
+1678071026 c:\users\vale\onedrive\escritorio\taller1\fecha.h
+	"stringdinamico.h"
+
+1678071026 c:\users\vale\onedrive\escritorio\taller1\stringdinamico.h
+	"Boolean.h"
+
+1678071027 c:\users\vale\onedrive\escritorio\taller1\boolean.h
+	<stdio.h>
+
+1678071026 c:\users\vale\onedrive\escritorio\taller1\listacomandos.h
+	"Comandos.h"
+
+1678071026 c:\users\vale\onedrive\escritorio\taller1\comandos.h
+	"stringdinamico.h"
+
+1678071026 c:\users\vale\onedrive\escritorio\taller1\listastings.h
+	"stringdinamico.h"
+
+1678071026 c:\users\vale\onedrive\escritorio\taller1\archivos.h
+	"stringdinamico.h"
+
+1678071026 source:c:\users\vale\onedrive\escritorio\taller1\archivos.cpp
+	"archivos.h"
+
+1678071026 source:c:\users\vale\onedrive\escritorio\taller1\boolean.cpp
+	"Boolean.h"
+
+1678071025 source:c:\users\vale\onedrive\escritorio\taller1\comandos.cpp
+	"Comandos.h"
+
+1678075662 source:c:\users\vale\onedrive\escritorio\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1678075612 c:\users\vale\onedrive\escritorio\taller1\familiareal.h
+	"MiembroRealeza.h"
+
+1678072635 source:c:\users\vale\onedrive\escritorio\taller1\fecha.cpp
+	"Fecha.h"
+
+1678071893 source:c:\users\vale\onedrive\escritorio\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1678076413 source:c:\users\vale\onedrive\escritorio\taller1\listas.cpp
+	"Listas.h"
+
+1678076446 c:\users\vale\onedrive\escritorio\taller1\listas.h
+	"FamiliaReal.h"
+	"Arbol.h"
+
+1678071027 source:c:\users\vale\onedrive\escritorio\taller1\listastings.cpp
+	"listaStings.h"
+
+1678076786 source:c:\users\vale\onedrive\escritorio\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1678077371 source:c:\users\vale\onedrive\escritorio\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1678071026 source:c:\users\vale\onedrive\escritorio\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1677866088 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\arbol.cpp
+	"Arbol.h"
+
+1677866088 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1677866088 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\miembrorealeza.h
+	"Fecha.h"
+	"ListaComandos.h"
+	"listaStings.h"
+	"Archivos.h"
+
+1677870372 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\fecha.h
+	"stringdinamico.h"
+
+1677866088 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\stringdinamico.h
+	"Boolean.h"
+
+1677866088 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\boolean.h
+	<stdio.h>
+
+1677866088 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\listacomandos.h
+	"Comandos.h"
+
+1677866088 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\comandos.h
+	"stringdinamico.h"
+
+1677866088 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\listastings.h
+	"stringdinamico.h"
+
+1677866088 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\archivos.h
+	"stringdinamico.h"
+
+1677866088 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\archivos.cpp
+	"archivos.h"
+
+1677866088 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\boolean.cpp
+	"Boolean.h"
+
+1677866088 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\comandos.cpp
+	"Comandos.h"
+
+1677869620 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1677867582 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\familiareal.h
+	"MiembroRealeza.h"
+
+1677870376 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\fecha.cpp
+	"Fecha.h"
+
+1677866088 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1677946048 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\listas.cpp
+	"Listas.h"
+
+1677946059 c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\listas.h
+	"FamiliaReal.h"
+	"Arbol.h"
+
+1677866088 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\listastings.cpp
+	"listaStings.h"
+
+1677946450 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1677940660 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1677866088 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230304t142154z-001\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1678228864 source:c:\users\janat\desktop\ude\taller 1\code\taller1\arbol.cpp
+	"Arbol.h"
+
+1678228864 c:\users\janat\desktop\ude\taller 1\code\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1678228864 c:\users\janat\desktop\ude\taller 1\code\taller1\miembrorealeza.h
+	"Fecha.h"
+	"ListaComandos.h"
+	"listaStings.h"
+	"Archivos.h"
+
+1678316645 c:\users\janat\desktop\ude\taller 1\code\taller1\fecha.h
+	"stringdinamico.h"
+
+1678228864 c:\users\janat\desktop\ude\taller 1\code\taller1\stringdinamico.h
+	"Boolean.h"
+
+1678228864 c:\users\janat\desktop\ude\taller 1\code\taller1\boolean.h
+	<stdio.h>
+
+1678228864 c:\users\janat\desktop\ude\taller 1\code\taller1\listacomandos.h
+	"Comandos.h"
+
+1678228864 c:\users\janat\desktop\ude\taller 1\code\taller1\comandos.h
+	"stringdinamico.h"
+
+1678285840 c:\users\janat\desktop\ude\taller 1\code\taller1\listastings.h
+	"stringdinamico.h"
+
+1678228864 c:\users\janat\desktop\ude\taller 1\code\taller1\archivos.h
+	"stringdinamico.h"
+
+1678228864 source:c:\users\janat\desktop\ude\taller 1\code\taller1\archivos.cpp
+	"archivos.h"
+
+1678228864 source:c:\users\janat\desktop\ude\taller 1\code\taller1\boolean.cpp
+	"Boolean.h"
+
+1678228864 source:c:\users\janat\desktop\ude\taller 1\code\taller1\comandos.cpp
+	"Comandos.h"
+
+1678313332 source:c:\users\janat\desktop\ude\taller 1\code\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1678228864 c:\users\janat\desktop\ude\taller 1\code\taller1\familiareal.h
+	"MiembroRealeza.h"
+
+1678316645 source:c:\users\janat\desktop\ude\taller 1\code\taller1\fecha.cpp
+	"Fecha.h"
+
+1678228864 source:c:\users\janat\desktop\ude\taller 1\code\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1678316854 source:c:\users\janat\desktop\ude\taller 1\code\taller1\listas.cpp
+	"Listas.h"
+
+1678313551 c:\users\janat\desktop\ude\taller 1\code\taller1\listas.h
+	"FamiliaReal.h"
+	"Arbol.h"
+
+1678286014 source:c:\users\janat\desktop\ude\taller 1\code\taller1\listastings.cpp
+	"listaStings.h"
+
+1678228864 source:c:\users\janat\desktop\ude\taller 1\code\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1678228864 source:c:\users\janat\desktop\ude\taller 1\code\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1678317460 source:c:\users\janat\desktop\ude\taller 1\code\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1678141364 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\arbol.cpp
+	"Arbol.h"
+
+1678061266 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1678112366 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\miembrorealeza.h
+	"Fecha.h"
+	"ListaComandos.h"
+	"listaStings.h"
+	"Archivos.h"
+
+1678142463 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\fecha.h
+	"stringdinamico.h"
+
+1678061266 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\stringdinamico.h
+	"Boolean.h"
+
+1678112375 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\boolean.h
+	<stdio.h>
+
+1678061266 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\listacomandos.h
+	"Comandos.h"
+
+1678061266 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\comandos.h
+	"stringdinamico.h"
+
+1678061266 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\listastings.h
+	"stringdinamico.h"
+
+1678061266 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\archivos.h
+	"stringdinamico.h"
+
+1678061266 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\archivos.cpp
+	"archivos.h"
+
+1678112227 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\boolean.cpp
+	"Boolean.h"
+
+1678061266 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\comandos.cpp
+	"Comandos.h"
+
+1678145655 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1678143507 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\familiareal.h
+	"MiembroRealeza.h"
+
+1678142463 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\fecha.cpp
+	"Fecha.h"
+
+1678061266 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1678145344 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\listas.cpp
+	"Listas.h"
+
+1678142126 c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\listas.h
+	"FamiliaReal.h"
+	"Arbol.h"
+
+1678061266 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\listastings.cpp
+	"listaStings.h"
+
+1678145655 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1678061266 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1678143618 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230306t125014z-001\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1678210854 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\arbol.cpp
+	"Arbol.h"
+
+1678210936 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\arbol.h
+	"MiembroRealeza.h"
+
+1678228610 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\miembrorealeza.h
+	"Fecha.h"
+	"ListaComandos.h"
+	"listaStings.h"
+	"Archivos.h"
+
+1678128120 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\fecha.h
+	"stringdinamico.h"
+
+1678128120 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\stringdinamico.h
+	"Boolean.h"
+
+1678128120 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\boolean.h
+	<stdio.h>
+
+1678128120 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\listacomandos.h
+	"Comandos.h"
+
+1678128120 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\comandos.h
+	"stringdinamico.h"
+
+1678232425 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\listastings.h
+	"stringdinamico.h"
+
+1678128120 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\archivos.h
+	"stringdinamico.h"
+
+1678128120 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\archivos.cpp
+	"archivos.h"
+
+1678128120 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\boolean.cpp
+	"Boolean.h"
+
+1678128120 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\comandos.cpp
+	"Comandos.h"
+
+1678228768 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\familiareal.cpp
+	"FamiliaReal.h"
+
+1678228760 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\familiareal.h
+	"MiembroRealeza.h"
+
+1678128120 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\fecha.cpp
+	"Fecha.h"
+
+1678128120 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\listacomandos.cpp
+	"ListaComandos.h"
+
+1678232627 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\listastings.cpp
+	"listaStings.h"
+
+1678232982 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\main.cpp
+	<iostream>
+	"listas.h"
+
+1678232725 c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\listas.h
+	"FamiliaReal.h"
+	"Arbol.h"
+
+1678228760 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\miembrorealeza.cpp
+	"MiembroRealeza.h"
+
+1678128120 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\stringdinamico.cpp
+	"stringdinamico.h"
+
+1678233860 source:c:\users\janat\desktop\ude\taller 1\code\taller1-20230307t163248z-001\taller1\listas.cpp
+	"Listas.h"
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Taller1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Taller1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Taller1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Arbol.cpp" />
+		<Unit filename="Arbol.h" />
+		<Unit filename="Archivos.cpp" />
+		<Unit filename="Archivos.h" />
+		<Unit filename="Boolean.cpp" />
+		<Unit filename="Boolean.h" />
+		<Unit filename="Comandos.cpp" />
+		<Unit filename="Comandos.h" />
+		<Unit filename="FamiliaReal.cpp" />
+		<Unit filename="FamiliaReal.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="ListaComandos.cpp" />
+		<Unit filename="ListaComandos.h" />
+		<Unit filename="Listas.cpp" />
+		<Unit filename="Listas.h" />
+		<Unit filename="MiembroRealeza.cpp" />
+		<Unit filename="MiembroRealeza.h" />
+		<Unit filename="listaStings.cpp" />
+		<Unit filename="listaStings.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="stringdinamico.cpp" />
+		<Unit filename="stringdinamico.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
